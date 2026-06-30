@@ -20,7 +20,7 @@
 
 title: Cristiano Miranda's ePortfolio
 description:   
-email: your-email@example.com
+email: cristiano.miranda@snhu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   An ePortfolio containing enhancements to the various assignments and projects made during the SNHU Computer Science Program.
 baseurl: "" # the subpath of your site, e.g. /blog
