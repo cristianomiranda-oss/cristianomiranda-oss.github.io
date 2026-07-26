@@ -23,7 +23,7 @@ description:
 email: cristiano.miranda@snhu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   An ePortfolio containing enhancements to the various assignments and projects made during the SNHU Computer Science Program.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://cristianomiranda-oss.github.io/" # the subpath of your site, e.g. /blog
 url: "https://cristianomiranda-oss.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  cristianomiranda-oss
