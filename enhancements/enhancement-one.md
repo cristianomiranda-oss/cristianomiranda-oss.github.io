@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Enhancement One
+title: Enhancement 1
 permalink: /enhancement-one/
 ---
 
