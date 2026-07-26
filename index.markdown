@@ -5,10 +5,5 @@
 layout: home
 ---
 
-# Links
-
-- Code Review
-- Enhancement One
-- Enhancement Two
-- Enhancement Three
+**Hello**, welcome to my ePorfolio. This site houses the various work I performed when completing my final project for the Computer Science Capstone course at SNHU.
 
