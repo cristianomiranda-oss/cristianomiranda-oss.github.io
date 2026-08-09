@@ -6,7 +6,7 @@ permalink: /enhancement-three/
 
 Enhancement Three work performed on artifact from CS-360 Mobile Architect and Programming.
 
-## [Github Repository] (https://github.com/cristianomiranda-oss/weight-tracker/tree/enhancement3).
+## [Github Repository](https://github.com/cristianomiranda-oss/weight-tracker/tree/enhancement3).
 
 ## Origin of the Artifact
 
