@@ -6,7 +6,7 @@ permalink: /enhancement-two/
 
 Enhancement Two work performed on artifact from CS-360 Mobile Architect and Programming.
 
-## Github Repository (https://github.com/cristianomiranda-oss/weight-tracker/tree/enhancement2).
+## [Github Repository] (https://github.com/cristianomiranda-oss/weight-tracker/tree/enhancement2).
 
 ## Origin of the Artifact
 

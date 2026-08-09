@@ -6,7 +6,7 @@ permalink: /enhancement-one/
 
 Enhancement One work performed on artifact from CS-360 Mobile Architect and Programming.
 
-## Github Repository (https://github.com/cristianomiranda-oss/weight-tracker/tree/enhancement1)
+## [Github Repository] (https://github.com/cristianomiranda-oss/weight-tracker/tree/enhancement1)
 
 ## Origin of the Artifact
 
