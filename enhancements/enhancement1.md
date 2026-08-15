@@ -8,6 +8,8 @@ Enhancement One work performed on artifact from CS-360 Mobile Architect and Prog
 
 ## [Github Repository](https://github.com/cristianomiranda-oss/weight-tracker/tree/enhancement1)
 
+### [Original Artifact](https://github.com/cristianomiranda-oss/CS-360/tree/main/Module%207)
+
 ## Origin of the Artifact
 
 Enhancement one focuses on software design and engineering, emphasizing the development of projects through planning, designing, coding, and testing to achieve their intended functionality. During my computer science program, one of the first instances where I was able to demonstrate this skill is during the CS-360 Mobile Design and Programming course where the final project required the creation of an application that could store data in a database, provided the necessary features to create, read, update, and delete the entries in the database, and allow users to create and sign in to accounts to manage their data. For my project, I decided to create a weight-tracking Android mobile application that uses Java to build the front-end interface, back-end logic, and middleware to interface with a SQLite database. In the end, this artifact was one of the major points of the computer science program, as it allowed me creative control over most aspects of the design, planning, and coding processes and showed me the importance of these three processes for creating a successful project.

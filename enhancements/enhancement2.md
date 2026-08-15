@@ -8,6 +8,8 @@ Enhancement Two work performed on artifact from CS-360 Mobile Architect and Prog
 
 ## [Github Repository](https://github.com/cristianomiranda-oss/weight-tracker/tree/enhancement2)
 
+### [Original Artifact](https://github.com/cristianomiranda-oss/CS-360/tree/main/Module%207)
+
 ## Origin of the Artifact
 
 The category for enhancement two, algorithms and data structures, emphasizes the importance of creating algorithms that efficiently accomplish tasks for a given problem and uses the appropriate data structure that best fits a situation. For this reason, the same artifact, the CS-360 Mobile Architect and Programming course's final project, a weight tracker mobile application, is the basis for this enhancement, as it would greatly benefit from implementing algorithms to help enhance security and functionality, as well as ensuring that the data structure used for handling user data is integrated efficiently. In the initial artifact, there are no major algorithms, but the most notable are the various CRUD methods that are housed within the database class, which complete a series of steps to add data to the appropriate database table while also handling any issues that may occur. Overall, the initial artifact is the weight tracker mobile application, and while it made use of algorithms to solve specific tasks, there are plenty of changes that can be made to add additional algorithms, as it can help improve the security, efficiency, and functionality of the artifact.

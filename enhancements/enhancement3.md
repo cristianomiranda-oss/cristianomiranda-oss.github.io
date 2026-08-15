@@ -7,9 +7,12 @@ permalink: /enhancement-three/
 Enhancement Three work performed on artifact from CS-360 Mobile Architect and Programming.
 
 ## [Deployment](https://weight-tracker-85vhggdz8-cristianomiranda-oss-projects.vercel.app/accounts)
+
 The web application's final iteration is hosted on Vercel and is accessible from any modern web browser and data is consistent across all devices.
 
 ## [Github Repository](https://github.com/cristianomiranda-oss/weight-tracker/tree/enhancement3)
+
+### [Original Artifact](https://github.com/cristianomiranda-oss/CS-360/tree/main/Module%207)
 
 ## Origin of the Artifact
 
